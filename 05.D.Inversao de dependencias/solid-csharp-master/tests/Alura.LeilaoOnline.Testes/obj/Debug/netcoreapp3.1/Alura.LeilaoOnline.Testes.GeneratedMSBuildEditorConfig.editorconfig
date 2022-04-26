@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Alura.LeilaoOnline.Testes
+build_property.ProjectDir = S:\Alura\03.Inversao de dependencias\solid-csharp-master\tests\Alura.LeilaoOnline.Testes\

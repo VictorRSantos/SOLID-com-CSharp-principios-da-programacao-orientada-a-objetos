@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Alura.LeilaoOnline.CLI
+build_property.ProjectDir = S:\Alura\SOLID-com-CSharp-principios-da-programacao-orientada-a-objetos\02.O.Principio do Aberto_Fechado\solid-csharp-master\src\Alura.LeilaoOnline.CLI\
